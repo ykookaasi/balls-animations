@@ -1,0 +1,10 @@
+#arena {
+  position: relative;
+  background-color: #fffafa;
+}
+.ball {
+  background-color: black;
+  position: absolute;
+  display: inline-block;
+  border-radius: 50%;
+}
