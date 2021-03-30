@@ -3,7 +3,7 @@
   background-color: #fffafa;
 }
 .ball {
-  background-color: black;
+  background-color: #5c5c5c;
   position: absolute;
   display: inline-block;
   border-radius: 50%;
