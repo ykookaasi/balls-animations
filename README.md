@@ -1,4 +1,4 @@
-# Balls animations with JavaScript
+# Ball animations with JavaScript
 
 See the 'finished' product at //link is coming.
 
