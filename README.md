@@ -4,7 +4,11 @@ See the 'finished' product at //link is coming.
 
 ## About
 
-This project is my playground for animating balls using vanilla js.
+This is my playground for animating balls using vanilla js.
+
+## About
+
+I will be adding more animations.
 
 ## Support
 
